@@ -1,0 +1,15 @@
+.imagen1{
+    width: 500px;
+    height: 500px;
+    background-image: url(../img/one.jpg);
+    margin: 2rem 2rem ;
+
+}
+.imagen2{
+    width: 500px;
+    height: 500px;
+    background-image: url(../img/piece.jpeg);
+    margin-left: 50rem;
+    margin-top: -33rem;
+    
+}
